@@ -1,3 +1,7 @@
+/*Proyecto tecnologico de Luis Rolando Colop Tzoc. 
+ * No. Carne: 202308052 CTEISA
+ * 
+*/
 #include <AFMotor.h>
 AF_DCMotor motor1(1);
 AF_DCMotor motor2(2);
